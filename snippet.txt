@@ -1,4 +1,4 @@
-<model-viewer src="Hop_Mi.glb" ar ar-modes="scene-viewer webxr quick-look" environment-image="pillars_1k.hdr" camera-orbit="24.7deg 79.49deg 45.67m" poster="poster.png">
+<model-viewer src="Hop_Mi.glb" camera-controls ar ar-modes="scene-viewer webxr quick-look" environment-image="pillars_1k.hdr" camera-orbit="-16.09deg 72.38deg 45.67m" poster="poster.png" min-camera-orbit="auto auto auto" max-camera-orbit="auto auto 45.67m">
 
     <div class="progress-bar hide" slot="progress-bar">
         <div class="update-bar"></div>
