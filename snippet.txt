@@ -1,4 +1,4 @@
-<model-viewer src="Hop_Mi.glb" camera-controls ar ios-src="Hop_Mi.usdz" environment-image="pillars_1k.hdr" exposure="1" camera-orbit="-28.44deg 77.25deg 45.67m" poster="poster.png">
+<model-viewer src="Hop_Mi.glb" camera-controls ar ios-src="Hop_Mi.usdz" environment-image="pillars_1k.hdr" exposure="1" camera-orbit="-28.44deg 77.25deg 45.67m" poster="poster.png" ar-modes="scene-viewer webxr quick-look">
 
     <button slot="ar-button" id="ar-button">
         View in your space
