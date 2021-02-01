@@ -1,8 +1,5 @@
-<model-viewer src="Hop_Mi.glb" camera-controls ar ar-modes="scene-viewer webxr quick-look" environment-image="pillars_1k.hdr" camera-orbit="-16.09deg 72.38deg 45.67m" poster="poster.png" min-camera-orbit="auto auto auto" max-camera-orbit="auto auto 45.67m">
+<model-viewer src="Hop_Mi.glb" camera-controls ar ios-src="Hop_Mi.usdz" environment-image="pillars_1k.hdr" exposure="1" camera-orbit="-28.44deg 77.25deg 45.67m" poster="poster.png">
 
-    <div class="progress-bar hide" slot="progress-bar">
-        <div class="update-bar"></div>
-    </div>
     <button slot="ar-button" id="ar-button">
         View in your space
     </button>
